@@ -9,7 +9,7 @@
 />
           
 
-Me chamo Miguel, sou um jovem programador de 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC-SP.
+Me chamo Miguel, sou um jovem programador de 18 anos e atualmente faço o curso de Análise e Desenvolvimento de Sistemas na FATEC-SP.
 Tenho experiência com Python, com certificações pelo Banco Bradesco e pela Hashtag Programação. Minhas especialidades na linguagem incluem:
 - Automação de processos
 - Web scraping
